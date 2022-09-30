@@ -1,0 +1,3 @@
+[submodule "MyRep"]
+	path = MyRep
+	url = https://github.com/Der1cle/MyRep.git
